@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "em-winrm/version"
 
 Gem::Specification.new do |s|
-  s.name        = "em-winrm"
+  s.name        = "realityforge-em-winrm"
   s.version     = EventMachine::WinRM::VERSION
   s.platform    = Gem::Platform::RUBY
   s.has_rdoc = true
