@@ -1,8 +1,10 @@
 # DO NOT EDIT: File is auto-generated
 * -text
 *.gemspec text
+*.md text
 *.rb text
 *.rdoc text
+.gitattributes text
 .gitignore text
 Gemfile text
 LICENSE text
