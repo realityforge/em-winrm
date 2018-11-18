@@ -6,7 +6,6 @@ Gem::Specification.new do |s|
   s.name        = "realityforge-em-winrm"
   s.version     = EventMachine::WinRM::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.has_rdoc = true
   s.extra_rdoc_files = ["README.rdoc", "LICENSE" ]
   s.authors     = ["Seth Chisamore"]
   s.email       = ["schisamo@opscode.com"]
